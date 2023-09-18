@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\Exception;class General extends \Exception{}
