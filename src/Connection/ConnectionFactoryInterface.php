@@ -1,1 +1,1 @@
-<?phpnamespace AtlantisGroup\OrmAG\Connection;interface ConnectionFactoryInterface{}
+<?phpnamespace AtlantisGroup\OrmAG\Connection;/** * Interface ConnectionFactoryInterface * @package AtlantisGroup\OrmAG\Connection */interface ConnectionFactoryInterface{}
