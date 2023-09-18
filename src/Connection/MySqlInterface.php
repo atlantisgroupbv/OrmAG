@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\Connection;/** * Interface MySqlInterface * @package AtlantisGroup\OrmAG\Connection */interface MySqlInterface{}
