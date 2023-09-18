@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\Wrapper;trait WrapperTrait{}

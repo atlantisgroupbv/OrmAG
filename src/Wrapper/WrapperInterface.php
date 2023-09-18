@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\Wrapper;/** * Interface WrapperInterface * @package AtlantisGroup\OrmAG\Wrapper */interface WrapperInterface extends \AtlantisGroup\OrmAG\Object\FakeObjectInterface{}
