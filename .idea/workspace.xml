@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec68b63-8a0c-467a-9cd2-f695cbb34185" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Connection/AbstractSql.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataAccess/DataAccessInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataMapper/AbstractDataMapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataMapper/DataMapperInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataMapper/Generic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/AbstractService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/ServiceInterface.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/ServiceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/ServiceFactory.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695016103810</updated>
-      <workItem from="1695016104990" duration="2299000" />
+      <workItem from="1695016104990" duration="5745000" />
     </task>
     <servers />
   </component>

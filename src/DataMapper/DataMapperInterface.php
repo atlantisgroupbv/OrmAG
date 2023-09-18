@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\DataMapper;/** * Interface DataMapperInterface * @package AtlantisGroup\OrmAG\DataMapper */interface DataMapperInterface{}

@@ -3,7 +3,7 @@
         'name' => 'atlantisgroup/ormag',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'f2f2ae82cd64784d3def55065f7a74e0630b029f',
+        'reference' => '23cddc2bf74846e4864ae6fe3c9e58bb2dd1c731',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'atlantisgroup/ormag' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'f2f2ae82cd64784d3def55065f7a74e0630b029f',
+            'reference' => '23cddc2bf74846e4864ae6fe3c9e58bb2dd1c731',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
