@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\DataMapper;/** * Class AbstractDataMapper * @package AtlantisGroup\OrmAG\DataMapper */abstract class AbstractDataMapper implements DataMapperInterface{    public function __construct()    {    }}
