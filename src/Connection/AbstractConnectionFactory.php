@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\Connection;abstract class AbstractConnectionFactory implements ConnectionFactoryInterface{    public function __construct(string $host, string $user, string $pass, string $port, string $database, string $charset)    {    }}
