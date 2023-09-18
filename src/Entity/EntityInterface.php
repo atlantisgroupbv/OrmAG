@@ -1,1 +1,1 @@
-<?phpnamespace AtlantisGroup\OrmAG\Entity;/** * Interface EntityInterface * @package AtlantisGroup\OrmAG\Entity */interface EntityInterface extends \JsonSerializable{}
+<?phpnamespace AtlantisGroup\OrmAG\Entity;use AtlantisGroup\OrmAG\Service\ServiceInterface;/** * Interface EntityInterface * @package AtlantisGroup\OrmAG\Entity */interface EntityInterface extends \JsonSerializable{    /**     * @return ServiceInterface     */    public function getService(): ServiceInterface;}
