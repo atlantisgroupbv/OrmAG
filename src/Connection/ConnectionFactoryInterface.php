@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\Connection;interface ConnectionFactoryInterface{}
