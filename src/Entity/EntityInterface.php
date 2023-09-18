@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\Entity;/** * Interface EntityInterface * @package AtlantisGroup\OrmAG\Entity */interface EntityInterface extends \JsonSerializable{}
