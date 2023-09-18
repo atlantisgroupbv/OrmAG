@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\DataAccess;interface DataAccessInterface{    /**     * @param bool $debug     * @return DataAccessInterface     */    public function setDebug(bool $debug): DataAccessInterface;}
