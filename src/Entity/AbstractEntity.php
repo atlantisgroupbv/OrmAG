@@ -1,0 +1,1 @@
+<?phpabstract class AbstractEntity implements \AtlantisGroup\OrmAG\Entity\EntityInterface{    public function jsonSerialize()    {        if (!isset($this->wrapped)) {        } else {        }    }}
