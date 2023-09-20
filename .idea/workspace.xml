@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec68b63-8a0c-467a-9cd2-f695cbb34185" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Connection/MySql.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Connection/MySqlInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entity/EntityFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helper/Data.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ormag.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ormag.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Connection/AbstractConnectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connection/AbstractConnectionFactory.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Connection/ConnectionFactoryInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connection/ConnectionFactoryInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Connection/MySql.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connection/MySql.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DataAccess/AbstractSql.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataAccess/AbstractSql.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataAccess/DataAccessInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataAccess/DataAccessInterface.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DataMapper/AbstractDataMapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataMapper/AbstractDataMapper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataMapper/DataMapperInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataMapper/DataMapperInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/AbstractEntity.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/AbstractEntity.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/EntityInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/EntityInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Service/AbstractService.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/AbstractService.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Service/ServiceInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/ServiceInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Helper/Data.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helper/Data.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +63,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/bas/projects/ormag-bundle&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/projects/development/apps/sugar&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -89,6 +82,11 @@
       <updated>1695016103810</updated>
       <workItem from="1695016104990" duration="5745000" />
       <workItem from="1695038338534" duration="11317000" />
+      <workItem from="1695059293625" duration="1671000" />
+      <workItem from="1695150454387" duration="2807000" />
+      <workItem from="1695193806088" duration="5896000" />
+      <workItem from="1695219281853" duration="2526000" />
+      <workItem from="1695237929199" duration="1128000" />
     </task>
     <servers />
   </component>

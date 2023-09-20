@@ -4,7 +4,6 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="AtlantisGroup\OrmAG\" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Validator/Constraints" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test/src" isTestSource="true" packagePrefix="Test\AtlantisGroup\OrmAG\" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
     </content>
