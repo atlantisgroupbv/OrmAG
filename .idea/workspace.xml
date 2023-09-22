@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec68b63-8a0c-467a-9cd2-f695cbb34185" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ormag.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ormag.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Connection/AbstractConnectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connection/AbstractConnectionFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Connection/ConnectionFactoryInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connection/ConnectionFactoryInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Connection/MySql.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connection/MySql.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataAccess/AbstractSql.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataAccess/AbstractSql.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataMapper/AbstractDataMapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataMapper/AbstractDataMapper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helper/Data.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helper/Data.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +80,9 @@
       <workItem from="1695193806088" duration="5896000" />
       <workItem from="1695219281853" duration="2526000" />
       <workItem from="1695237929199" duration="1128000" />
+      <workItem from="1695284401050" duration="682000" />
+      <workItem from="1695308299640" duration="577000" />
+      <workItem from="1695391826575" duration="753000" />
     </task>
     <servers />
   </component>
