@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAG\Console\Command;class Status extends AbstractCommand{}
