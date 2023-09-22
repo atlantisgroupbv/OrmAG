@@ -1,0 +1,1 @@
+<?phpuse AtlantisGroup\OrmAG\Console\Command\Make\Model;use AtlantisGroup\OrmAG\Console\Command\Status;use Symfony\Component\Console\Application;$application = new Application('OrmAG', '*');$application->add(new Status());$application->add(new Model());return $application;
