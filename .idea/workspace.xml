@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec68b63-8a0c-467a-9cd2-f695cbb34185" name="Changes" comment="">
+
       <change afterPath="$PROJECT_DIR$/test/bootstrap.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/fixtures/classes.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
+      <change afterPath="$PROJECT_DIR$/bin/ormag.bat" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
