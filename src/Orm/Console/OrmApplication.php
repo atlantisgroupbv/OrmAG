@@ -1,0 +1,1 @@
+<?phpdeclare(strict_types=1);namespace Orm\Console;use Symfony\Component\Console\Application;class OrmApplication extends Application{}

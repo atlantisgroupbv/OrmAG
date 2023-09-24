@@ -1,0 +1,1 @@
+<?phpdeclare(strict_types=1);namespace AtlantisGroup\OrmAG\Orm\Console\Command;use Symfony\Component\Console\Attribute\AsCommand;#[AsCommand(name: 'create')]class Create extends AbstractCommand{}
