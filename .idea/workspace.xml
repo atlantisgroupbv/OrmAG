@@ -4,21 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec68b63-8a0c-467a-9cd2-f695cbb34185" name="Changes" comment="">
-
-      <change afterPath="$PROJECT_DIR$/test/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/classes.php" afterDir="false" />
+    <list default="true" id="16adc897-2923-488c-aa73-b9740fe84968" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-
-      <change afterPath="$PROJECT_DIR$/bin/ormag.bat" afterDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Console/Command/AbstractCommand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Console/Command/Make/Model.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Console/Command/Status.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -55,45 +54,35 @@
       <path value="$PROJECT_DIR$/vendor/symfony/console" />
     </include_path>
   </component>
-  <component name="ProjectId" id="2VYbkQX1V7K1DMRRkCfQp9tYtRh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2VpXA2murNFZq84uTFt3JZqGoYm" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/projects/development/apps/sugar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/bas/projects/phinx",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2ec68b63-8a0c-467a-9cd2-f695cbb34185" name="Changes" comment="" />
-      <created>1695016103810</created>
+      <changelist id="16adc897-2923-488c-aa73-b9740fe84968" name="Changes" comment="" />
+      <created>1695533850537</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695016103810</updated>
-      <workItem from="1695016104990" duration="5745000" />
-      <workItem from="1695038338534" duration="11317000" />
-      <workItem from="1695059293625" duration="1671000" />
-      <workItem from="1695150454387" duration="2807000" />
-      <workItem from="1695193806088" duration="5896000" />
-      <workItem from="1695219281853" duration="2526000" />
-      <workItem from="1695237929199" duration="1128000" />
-      <workItem from="1695284401050" duration="682000" />
-      <workItem from="1695308299640" duration="577000" />
-      <workItem from="1695391826575" duration="753000" />
+      <updated>1695533850537</updated>
+      <workItem from="1695533852101" duration="2726000" />
     </task>
     <servers />
   </component>
